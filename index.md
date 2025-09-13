@@ -5,7 +5,7 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 
 ## Koleksi
-1. [[Materi VR](ebook/Ringkasan Materi VR.pdf) - Nindia Yuristaningtyas 13040123140121 (2025)
+1. [Materi VR](ebook/Ringkasan Materi VR.pdf) - Nindia Yuristaningtyas 13040123140121 (2025)
 2. [The Mars Room](ebook/ebook pdf.pdf) - Rachel Kushner (2018)
 3. [Tentang Kamu](ebook/Tere liye-tentang kamu.pdf) - Tere Liye (2016)
 4. [Bahagia, Kenapa Tidak?](ebook/Bahagia kenapa tidak 1.pdf) - Reza A.A Wattimena (2015)
