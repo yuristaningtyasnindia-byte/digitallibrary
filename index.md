@@ -15,7 +15,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Laskar Pelangi](ebook/laskar pelangi.pdf) - Andrea Hirata (2005)
 9. [Menjadi Guru Sekolah Minggu yang Efektif](ebook/Menjadi Guru Sekolah Minggu.pdf) - Ayub Yahya (2011)
 10. [Bumi](ebook/Tere liye-Bumi.pdf) - Tere Liye (2014)
-11. [The Count of Monte Crissto](ebook/The Count of Monte Cristo.pdf) - Alexandre Dumas (2001)
+11. [The Count of Monte Cristo](ebook/The Count of Monte Cristo.pdf) - Alexandre Dumas (2001)
     
 ---
 
