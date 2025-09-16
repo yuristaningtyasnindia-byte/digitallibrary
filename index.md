@@ -16,6 +16,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Menjadi Guru Sekolah Minggu yang Efektif](ebook/Menjadi Guru Sekolah Minggu.pdf) - Ayub Yahya (2011)
 10. [Bumi](ebook/Tere liye-Bumi.pdf) - Tere Liye (2014)
 11. [The Count of Monte Cristo](ebook/The Count of Monte Cristo.pdf) - Alexandre Dumas (2001)
- <a href="webti/halaman1.html">halaman 1</a>
+<hr>
+<a href="webti/halaman1.html">halaman 1</a>
+ 
 ---
 *Powered by Github Pages* 
