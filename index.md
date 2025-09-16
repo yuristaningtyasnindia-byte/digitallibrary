@@ -18,18 +18,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 11. [The Count of Monte Cristo](ebook/The Count of Monte Cristo.pdf) - Alexandre Dumas (2001)
 <hr>
 <a href="webti/halaman1.html">Halaman 1</a>
-<br>
-<a href="webti/halaman1.html">Halaman 2</a>
-<br>
-<a href="webti/halaman1.html">Halaman 3</a>
-<br>
-<a href="webti/halaman1.html">Halaman 4</a>
-<br>
-<a href="webti/halaman1.html">Halaman 5</a>
-<br>
-<a href="webti/halaman1.html">Halaman 6</a>
-<br>
-<a href="webti/halaman1.html">Halaman 7</a>
-
 ---
 *Powered by Github Pages* 
