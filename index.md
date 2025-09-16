@@ -17,7 +17,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Bumi](ebook/Tere liye-Bumi.pdf) - Tere Liye (2014)
 11. [The Count of Monte Cristo](ebook/The Count of Monte Cristo.pdf) - Alexandre Dumas (2001)
 <hr>
-<br>
 <a href="webti/halaman1.html">Halaman 1</a>
 <br>
 <a href="webti/halaman1.html">Halaman 2</a>
